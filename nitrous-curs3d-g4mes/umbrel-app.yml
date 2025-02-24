@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: nitrous-curs3d-g4mes
+category: games
+name: Cursed Games
+version: "3.3.0"
+tagline: The official game backend for Cursed Central made portable.
+description: >-
+  Cursed Games is the official game backend for Cursed Central.
+releaseNotes: >-
+  Launch 
+developer: Nitrous
+website:
+dependencies:
+repo: https://github.com/eternalnitrous/curs3d-g4mes/
+support: https://github.com/eternalnitrous/curs3d-g4mes/discussions
+port: 3000
+gallery:
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Nitrous
+submission:
